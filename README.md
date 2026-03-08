@@ -68,15 +68,6 @@ The research and dashboard insights suggest that digital platforms designed spec
 
 ---
 
-## Demo / Screenshots
-
-
-
-Example:
-
-
-
----
 
 ## Future Improvements
 
